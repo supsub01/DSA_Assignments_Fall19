@@ -34,6 +34,7 @@ You are given an array of N positive numbers, in a random order.
 1. Make the array into a heap.  A null node is indicated by -1. The -1 (null node) could be anywhere in the array, i.e. all -1 are not at the end of array.
 2. Sort the heap using heap sort.
 Run your program on an array of 20 random numbers.  You may hard code to initialize the  array in the main
+
 X----X
   
 Assignment-4
